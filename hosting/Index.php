@@ -1,3 +1,3 @@
 <?php
-echo "<h1>Hosting Website Rafli Dibuat</h1>";
+echo "<h1>Hosting Website Rafa Dibuat</h1>";
 ?>
